@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bcd3515-7310-4dae-97be-f70832151bd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lTVYXPDa5V2UUYcVuzmm9egdNq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyJobPortal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MapBox" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MapBox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bcd3515-7310-4dae-97be-f70832151bd2" name="Default Changelist" comment="" />
+      <created>1607621115816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607621115816</updated>
+      <workItem from="1607621150666" duration="82000" />
+      <workItem from="1607621348966" duration="111000" />
+      <workItem from="1607621491463" duration="656000" />
+      <workItem from="1607622174963" duration="552000" />
+      <workItem from="1607623169776" duration="995000" />
+      <workItem from="1607770873394" duration="298000" />
+      <workItem from="1607775153583" duration="1272000" />
+      <workItem from="1607963683101" duration="133000" />
+      <workItem from="1608006905775" duration="591000" />
+      <workItem from="1608019067768" duration="2101000" />
+      <workItem from="1608021574037" duration="1125000" />
+      <workItem from="1608023508869" duration="1297000" />
+      <workItem from="1608025378368" duration="417000" />
+      <workItem from="1608025863852" duration="1255000" />
+      <workItem from="1608027212450" duration="301000" />
+      <workItem from="1608027856434" duration="1086000" />
+      <workItem from="1608029194004" duration="907000" />
+      <workItem from="1608030147114" duration="350000" />
+      <workItem from="1608095873418" duration="4000" />
+      <workItem from="1608107703492" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608026383176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608026383176" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607621240914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607621240914" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1608107723652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608107723652" />
+    <state x="328" y="91" width="709" height="546" key="find.popup" timestamp="1608030284381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="91" width="709" height="546" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1608030284381" />
+  </component>
+</project>
