@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcd3515-7310-4dae-97be-f70832151bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MapBox/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MapBox/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/MyApp/aap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/MyApp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/MyApp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/MyApp/mapbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/MyApp/mapbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/MyApp/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/MyApp/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,10 @@
       <workItem from="1608107703492" duration="28000" />
       <workItem from="1608115924812" duration="1638000" />
       <workItem from="1608117828078" duration="1178000" />
-      <workItem from="1608119665157" duration="1015000" />
+      <workItem from="1608119665157" duration="1744000" />
+      <workItem from="1608121665999" duration="1040000" />
+      <workItem from="1608122783496" duration="617000" />
+      <workItem from="1608123507605" duration="705000" />
     </task>
     <servers />
   </component>
@@ -123,13 +127,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607621240914" />
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1608120147034">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1608123507056">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608120147034" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608123507056" />
     <state x="328" y="91" width="709" height="546" key="find.popup" timestamp="1608030284381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="328" y="91" width="709" height="546" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1608030284381" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp/views.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

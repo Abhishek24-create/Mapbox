@@ -7,11 +7,14 @@ from django.http import HttpResponseRedirect
 # from datetime import datetime
 # Create your views here.
 # Create your views here.
+def login(request):
+    return render(request,'MyApp/login.html')
+
 def Registration(request):
     return render(request,'MyApp/registration.html')
 
 def SaveRegister(request):
-    firstname = request.POST.get("firstname")
+    username = request.POST.get("username")
     email = request.POST.get("email")
     mob = request.POST.get("phone no")
     password = request.POST.get("password")
@@ -20,7 +23,7 @@ def SaveRegister(request):
         message="User Already Registered With This User"
         return render(request, "MyApp/registration.html", {'message': message})
     else:
-        register(firstname=firstname, email=email, mob=mob, password=password).save()
+        register(username=username, email=email, mob=mob, password=password).save()
     return render(request, "MyApp/login.html")
 
 def Login(request):
@@ -31,11 +34,12 @@ def Login(request):
         count = register.objects.filter(email=email,password=password)
         if count.count()>0:
             request.session['useremail'] = email
-            return redirect("/", {'useremail':email})
+            return render(request,"MyApp/mapbox.html")
         else:
             return render(request,"MyApp/login.html",{'message':'Invalid User or Password'})
 
 
-def mapbox(request):
-    return render(request, 'MyApp/mapbox.html'),
 
+def Logout(request):
+    request.session.flush()
+    return redirect("/")
