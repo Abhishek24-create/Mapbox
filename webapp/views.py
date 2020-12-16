@@ -39,6 +39,3 @@ def Login(request):
 def mapbox(request):
     return render(request, 'MyApp/mapbox.html'),
 
-
-def aap(request):
-    return render(request, 'MyApp/aap.html'),

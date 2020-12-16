@@ -21,10 +21,9 @@ from webapp import views
 
 urlpatterns = [
     # path('', include('webapp.urls')),
-    path('admin/', admin.site.urls),
+    path('admin/', admin.site.urls),                                                                                                                                                                        
     path('registration/',views.Registration),
     path('login/',views.Login),
     path('mapbox/',views.mapbox),
-    path('app/',views.aap),
 
 ]

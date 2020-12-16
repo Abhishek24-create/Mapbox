@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bcd3515-7310-4dae-97be-f70832151bd2" name="Default Changelist" comment="" />
+    <list default="true" id="3bcd3515-7310-4dae-97be-f70832151bd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapBox/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MapBox/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/MyApp/aap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lTVYXPDa5V2UUYcVuzmm9egdNq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyJobPortal" />
   </component>
@@ -94,6 +105,9 @@
       <workItem from="1608030147114" duration="350000" />
       <workItem from="1608095873418" duration="4000" />
       <workItem from="1608107703492" duration="28000" />
+      <workItem from="1608115924812" duration="1638000" />
+      <workItem from="1608117828078" duration="1178000" />
+      <workItem from="1608119665157" duration="1015000" />
     </task>
     <servers />
   </component>
@@ -101,18 +115,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608026383176">
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608115993995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608026383176" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608115993995" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1607621240914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607621240914" />
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1608107723652">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1608120147034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608107723652" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608120147034" />
     <state x="328" y="91" width="709" height="546" key="find.popup" timestamp="1608030284381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
